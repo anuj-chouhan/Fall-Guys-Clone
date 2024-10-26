@@ -12,7 +12,7 @@ Players navigate through a colorful obstacle course filled with moving barriers,
 **Note:** The game still has a few minor bugs I could easily address now, but I’ve preserved it in its original form as a testament to my progress.
 
 ## 🔗 Play the Game Online
-You can try out the game via the **[WebGL build here](#)**. *Please note:* due to WebGL limitations, you may experience jitter, graphical errors, and other performance issues. For the best experience, download the **[Desktop build here](./builds/FallGuysClone_Desktop.zip)**, which is fully functional and optimized for desktop play.
+You can try out the game via the **[WebGL build here](#)**. *Please note:* due to WebGL limitations, you may experience jitter, graphical errors, and other performance issues. For the best experience, download the **[Desktop build here](01 BUILDS/Executable/Fall Guys Clone (Single Player Offline).zip)**, which is fully functional and optimized for desktop play.
 
 ## 🔧 Features
 - Third-person character control
