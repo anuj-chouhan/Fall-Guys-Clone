@@ -32,7 +32,7 @@ This project was primarily built for:
 
 ## 📸 Screenshots
 <!-- Add links or paths to screenshots here -->
-- Screenshot 1: [Path/Link]
+- Screenshot 1: [Screenshot%20(1).png]
 - Screenshot 2: [Path/Link]
 
 ## 🛠️ Current Status
