@@ -30,10 +30,19 @@ This project was primarily built for:
 - Practicing third-person controller implementation
 - Building experience in handling collisions and obstacle dynamics
 
-## 📸 Screenshots
-<!-- Add links or paths to screenshots here -->
-- Screenshot 1: [Path/Link]
-- Screenshot 2: [Path/Link]
+## 📸 Media
+
+### Screenshots
+- ![Screenshot 1](Screenshot%20(1).png)
+- ![Screenshot 2](Screenshot%20(2).png)
+
+### Videos
+#### Small Breakdown
+[![Watch Small Breakdown](https://img.youtube.com/vi/your_video_id/0.jpg)](Pack%20Guy%20Breakdown.mp4)
+
+#### Small Gameplay
+[![Watch Small Gameplay](https://img.youtube.com/vi/your_video_id/0.jpg)](Pack%20Guy%20GamePlay.mp4)
+
 
 ## 🛠️ Current Status
 This project is no longer under active development but remains a valuable part of my Unity portfolio.
