@@ -37,11 +37,11 @@ This project was primarily built for:
 - ![Screenshot 2](Screenshot%20(2).png)
 
 ### Videos
-#### Small Breakdown
-[![Watch Small Breakdown](https://img.youtube.com/vi/your_video_id/0.jpg)](Pack%20Guy%20Breakdown.mp4)
+### Small Breakdown
+[![Watch Small Breakdown](https://img.youtube.com/vi/your_video_id/0.jpg)]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/ebMybNZl_KE))
 
-#### Small Gameplay
-[![Watch Small Gameplay](https://img.youtube.com/vi/your_video_id/0.jpg)](Pack%20Guy%20GamePlay.mp4)
+### Small Gameplay
+[![Watch Small Gameplay](https://img.youtube.com/vi/your_video_id/0.jpg)]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/ebMybNZl_KE))
 
 
 ## 🛠️ Current Status
